@@ -22,14 +22,14 @@ Installation
 
     bash
 
-git clone https://github.com/your-username/fastapi-todo-app.git
-cd fastapi-todo-app
+git clone https://github.com/ShohjahonObruyevOybekovich/FastApiTask.git
+cd FastApiTask
 
 Install dependencies:
 
 bash
 
-pip install -r requirements.txt
+pip install -r r.txt
 
 Set up environment variables:
 
